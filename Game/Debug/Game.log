@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(46,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(47,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(54,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(62,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(62,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(68,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Game\Game\Source.cpp(68,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.vcxproj -> C:\Users\Admin\Desktop\Game\Debug\h.exe
